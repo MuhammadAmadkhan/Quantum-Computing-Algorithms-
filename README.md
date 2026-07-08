@@ -1,2 +1,1 @@
-# Neural-Network
-Neural Network codes that give you an  insight about how to compute your fromulas in simple langauge.
+# All_EPR_Pair_Circuit_Quantum_Teleportation_Circuit
